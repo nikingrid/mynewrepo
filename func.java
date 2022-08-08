@@ -5,7 +5,9 @@ public class Start {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Scanner add = new Scanner(System.in);
+		//Código realizado para sumar 
+        
+        Scanner add = new Scanner(System.in);
 
 		//Declaración de variables
 		int numero1 = 0;
